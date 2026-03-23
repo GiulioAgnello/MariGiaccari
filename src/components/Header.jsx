@@ -1,7 +1,9 @@
+import { Link } from "react-router-dom";
+
 export default function Header() {
   return (
     <header className="header">
-      <nav className="navbar navbar-expand-lg bg-body-tertiary ">
+      <nav className="navbar navbar-expand-lg  ">
         <div className="container-fluid">
           <button
             className="navbar-toggler"
@@ -27,41 +29,41 @@ export default function Header() {
                 />
               </li>
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="#">
+                <Link className="nav-link active" aria-current="page" to="/">
                   Home
-                </a>
+                </Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <Link className="nav-link" to="/esperienza">
                   Esperienza
-                </a>
+                </Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <Link className="nav-link" to="/weddingstories">
                   Wedding Stories
-                </a>
+                </Link>
               </li>
 
               <li>
-                <a className="nav-link" href="#">
+                <Link className="nav-link" to="/video">
                   Video
-                </a>
+                </Link>
               </li>
               <li>
-                <a className="nav-link" href="#">
+                <Link className="nav-link" to="/album       ">
                   Album
-                </a>
+                </Link>
               </li>
               <li>
-                <a className="nav-link" href="#">
+                <Link className="nav-link" to="/about">
                   About
-                </a>
+                </Link>
               </li>
 
               <li>
-                <a className="nav-link" href="#">
+                <Link className="nav-link" to="/contatti">
                   Contatti
-                </a>
+                </Link>
               </li>
             </ul>
           </div>

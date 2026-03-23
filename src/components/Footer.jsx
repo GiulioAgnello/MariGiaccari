@@ -1,8 +1,8 @@
 export default function Footer() {
   return (
-    <footer className="footer bg-light text-center text-lg-start mt-5 ">
+    <footer className="footer bg-tartary text-center text-lg-start mt-5 ">
       <p className="text-center">
-        &copy; 2024 Il mio sito React. Tutti i diritti riservati.
+        &copy; 2026 Sito curato e gestito da Giulio. Tutti i diritti riservati.
       </p>
     </footer>
   );
