@@ -8,15 +8,15 @@ export default function Homepage() {
     <div className="homepage ">
       <div className="container">
         <div className="row mt-5">
-          <div className="col-6 d-flex justify-content-center align-items-center">
+          <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
             <img className="imgHero" src="public/HomepageHero.jpg" alt="Logo" />
           </div>
-          <div className="col-6">
+          <div className="col-12 col-md-6 mt-4 mt-md-0">
             <div className="article ">
               <div className="card-body">
-                <h5 className="card-title text-center mb-4">
+                <h1 className="card-title text-center mb-4 fs-3">
                   WEDDING PHOTOGRAPHER IN PUGLIA
-                </h5>
+                </h1>
                 <p className="card-text text-center">
                   La mia specialità è catturare i momenti e i dettagli senza
                   pose e senza forzature, raccontando l'unicità di coppie
@@ -132,6 +132,14 @@ export default function Homepage() {
           </div>
         </div>
       )}
+      <div className="container">
+        <div className="row">
+          <h2 className="text-center mt-5 mb-5">
+            Iniziamo insieme a raccontare la vostra storia. Questo è il vostro
+            momento!
+          </h2>
+        </div>
+      </div>
     </div>
   );
 }
