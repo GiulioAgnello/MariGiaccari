@@ -1,0 +1,28 @@
+const fotoHome = [
+  "public/fotoHome/Annabelle-e-George-wedding-Matrimonio-destination-wedding-weddinginpuglia-MARI-GIACCARI-FOTOGRAFA-116-scaled.jpg",
+  "public/fotoHome/Annabelle-e-George-wedding-Matrimonio-destination-wedding-weddinginpuglia-MARI-GIACCARI-FOTOGRAFA-151-scaled.jpg",
+  "public/fotoHome/Annabelle-e-George-wedding-Matrimonio-destination-wedding-weddinginpuglia-MARI-GIACCARI-FOTOGRAFA-157-scaled.jpg",
+  "public/fotoHome/Annabelle-e-George-wedding-Matrimonio-destination-wedding-weddinginpuglia-MARI-GIACCARI-FOTOGRAFA-166-scaled.jpg",
+  "public/fotoHome/Hannah-e-Tommaso-WEDDING_-weddingplanner-weddingday-destinationwedding-weddingphotographer-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-107-scaled.jpg",
+  "public/fotoHome/Hannah-e-Tommaso-WEDDING_-weddingplanner-weddingday-destinationwedding-weddingphotographer-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-108-scaled.jpg",
+  "public/fotoHome/Sally-e-Giovanni-wedding-Matrimonio-destination-wedding-weddinginpuglia-MARI-GIACCARI-FOTOGRAFA-128-scaled.jpg",
+  "public/fotoHome/Sally-e-Giovanni-wedding-Matrimonio-destination-wedding-weddinginpuglia-MARI-GIACCARI-FOTOGRAFA-146-scaled.jpg",
+  "public/fotoHome/Sally-e-Giovanni-wedding-Matrimonio-destination-wedding-weddinginpuglia-MARI-GIACCARI-FOTOGRAFA-166-scaled.jpg",
+  "public/fotoHome/WEDDING-EILEEN-E-MICHAEL-_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-117-scaled.jpg",
+  "public/fotoHome/WEDDING-ISABELLA-E-MARCO-_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-110-scaled.jpg",
+  "public/fotoHome/WEDDING-MARIA-SPERANZA-E-DAMIANO-_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-114-scaled.jpg",
+  "public/fotoHome/WEDDING-MARIA-SPERANZA-E-DAMIANO-_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-121-scaled.jpg",
+  "public/fotoHome/WEDDING-MARIA-SPERANZA-E-DAMIANO-_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-144-scaled.jpg",
+  "public/fotoHome/WEDDING-Virgjnjia-e-Simone_MARI-GIACCARI-FOTOGRAFA_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-122-scaled.jpg",
+  "public/fotoHome/WEDDING-Virgjnjia-e-Simone_MARI-GIACCARI-FOTOGRAFA_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-127-scaled.jpg",
+  "public/fotoHome/WEDDING-Virgjnjia-e-Simone_MARI-GIACCARI-FOTOGRAFA_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-131-scaled.jpg",
+  "public/fotoHome/WEDDING-Virgjnjia-e-Simone_MARI-GIACCARI-FOTOGRAFA_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-198-scaled.jpg",
+  "public/fotoHome/Wedding-Alex-e-Irene_MARI-GIACCARI-FOTOGRAFA_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-104-scaled.jpg",
+  "public/fotoHome/Wedding-Alex-e-Irene_MARI-GIACCARI-FOTOGRAFA_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-180-scaled.jpg",
+  "public/fotoHome/Wedding-Silvia-e-Carlo_MARI-GIACCARI-FOTOGRAFA_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-101-scaled.jpg",
+  "public/fotoHome/Wedding-Silvia-e-Carlo_MARI-GIACCARI-FOTOGRAFA_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-122-scaled.jpg",
+  "public/fotoHome/Wedding-Silvia-e-Carlo_MARI-GIACCARI-FOTOGRAFA_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-159-scaled.jpg",
+  "public/fotoHome/Wedding-Silvia-e-Carlo_MARI-GIACCARI-FOTOGRAFA_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-162-scaled.jpg",
+];
+
+export default fotoHome;

@@ -5,12 +5,15 @@ import Footer from "../components/Footer";
 export default function DefaultLayout() {
   return (
     <div className="default-layout">
-      <Header />
+      <header className="sticky-top">
+        <Header />
+      </header>
       <main>
         <Outlet />
       </main>
-
-      <Footer />
+      <footer className="mt-5">
+        <Footer />
+      </footer>
     </div>
   );
 }

@@ -1,7 +1,7 @@
 export default function Header() {
   return (
     <header className="header">
-      <nav className="navbar navbar-expand-lg bg-body-tertiary">
+      <nav className="navbar navbar-expand-lg bg-body-tertiary ">
         <div className="container-fluid">
           <button
             className="navbar-toggler"

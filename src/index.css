@@ -1,3 +1,15 @@
 .logo {
   width: 150px;
 }
+
+.imgHero {
+  width: 60%;
+  max-width: 500px;
+  height: auto;
+  /* border: 5px solid #000; */
+  border-radius: 10px;
+}
+.imgHero:hover {
+  box-shadow: #000 0px 0px 10px;
+  transition: box-shadow 0.3s ease;
+}
