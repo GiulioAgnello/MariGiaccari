@@ -1,5 +1,6 @@
 import { useState } from "react";
 import fotoHome from "../assets/FotoHome";
+import Recensioni from "../components/Recensioni";
 
 export default function Homepage() {
   const [expanded, setExpanded] = useState(false);
@@ -135,10 +136,35 @@ export default function Homepage() {
       <div className="container">
         <div className="row">
           <h2 className="text-center mt-5 mb-5">
-            Iniziamo insieme a raccontare la vostra storia. Questo è il vostro
-            momento!
+            Iniziamo insieme a raccontare la vostra storia d'amore
           </h2>
+          <div className="col-12 col-md-6">
+            <div className="row flex-column align-items-center justify-content-center">
+              <div className="col-12 col-md-6 text-center">
+                <h5>Questo è il vostro momento!</h5>
+                <p>
+                  Cosa rimarrà del tuo matrimonio? È essenziale scegliere la
+                  location perfetta per il tuo evento, i fiori, e naturalmente,
+                  il tuo abito da sposa. Ma chi racconterà tutto questo? Chi
+                  sarà in grado di immortalare quelle emozioni nel tempo? Scegli
+                  con attenzione il tuo fotografo. Se desideri dare la massima
+                  importanza alla fotografia, all’autenticità, e a ogni
+                  dettaglio del tuo grande giorno, sarò la tua fotografa.
+                </p>
+              </div>
+              <div className="col-12 col-md-6">
+                <img className="badgeHome" src="public\badgeHome.png" alt="" />
+              </div>
+            </div>
+          </div>
+          <div className="col-12 col-md-6">
+            <img className="imgHero" src="public\Mari1jpg.jpg" alt="Mari1" />
+          </div>
         </div>
+      </div>
+      <div className="my-5">
+        <h4 className="text-center">Recensioni</h4>
+        <Recensioni />
       </div>
     </div>
   );

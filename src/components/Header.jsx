@@ -33,42 +33,31 @@ export default function Header() {
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#">
-                  Features
+                  Esperienza
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#">
-                  Pricing
+                  Wedding Stories
                 </a>
               </li>
-              <li className="nav-item dropdown">
-                <a
-                  className="nav-link dropdown-toggle"
-                  href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  Dropdown link
+
+              <li>
+                <a className="nav-link" href="#">
+                  Video
                 </a>
-                <ul className="dropdown-menu">
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Action
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Another action
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Something else here
-                    </a>
-                  </li>
-                </ul>
               </li>
+              <li>
+                <a className="nav-link" href="#">
+                  Album
+                </a>
+              </li>
+              <li>
+                <a className="nav-link" href="#">
+                  About
+                </a>
+              </li>
+
               <li>
                 <a className="nav-link" href="#">
                   Contatti
