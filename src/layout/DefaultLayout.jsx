@@ -1,17 +1,16 @@
 import { Outlet } from "react-router-dom";
+import Header from "../components/Header";
+import Footer from "../components/Footer";
 
 export default function DefaultLayout() {
   return (
     <div className="default-layout">
-      <header>
-        <h1>Il mio sito</h1>
-      </header>
+      <Header />
       <main>
         <Outlet />
       </main>
-      <footer>
-        <p>&copy; 2023 Il mio sito. Tutti i diritti riservati.</p>
-      </footer>
+
+      <Footer />
     </div>
   );
 }
