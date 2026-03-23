@@ -3,11 +3,6 @@ export default function Header() {
     <header className="header">
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
-          <img
-            className="logo navbar-brand"
-            src="public\Logo-G-nero-e1544602148255.png"
-            alt="Logo"
-          />
           <button
             className="navbar-toggler"
             type="button"
@@ -20,10 +15,17 @@ export default function Header() {
             <span className="navbar-toggler-icon"></span>
           </button>
           <div
-            className="collapse navbar-collapse justify-content-center"
+            className="collapse navbar-collapse justify-content-center "
             id="navbarNavDropdown"
           >
-            <ul className="navbar-nav">
+            <ul className="navbar-nav align-items-center">
+              <li>
+                <img
+                  className="logo navbar-brand"
+                  src="public\Logo-G-nero-e1544602148255.png"
+                  alt="Logo"
+                />
+              </li>
               <li className="nav-item">
                 <a className="nav-link active" aria-current="page" href="#">
                   Home
