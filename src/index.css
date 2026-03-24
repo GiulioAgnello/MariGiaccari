@@ -44,3 +44,25 @@
   box-shadow: #000 0px 0px 20px;
   transition: box-shadow 0.3s ease;
 }
+
+.experience-img img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 10px;
+}
+.experience-img img:hover {
+  box-shadow: #000 0px 0px 10px;
+  transition: box-shadow 0.3s ease;
+}
+
+.reportage-img img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 10px;
+}
+.reportage-img img:hover {
+  box-shadow: #000 0px 0px 10px;
+  transition: box-shadow 0.3s ease;
+}
