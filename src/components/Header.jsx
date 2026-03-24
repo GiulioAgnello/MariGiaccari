@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 
 export default function Header() {
   return (
@@ -29,41 +29,41 @@ export default function Header() {
                 />
               </li>
               <li className="nav-item">
-                <Link className="nav-link active" aria-current="page" to="/">
+                <NavLink className="nav-link " aria-current="page" to="/">
                   Home
-                </Link>
+                </NavLink>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/esperienza">
+                <NavLink className="nav-link" to="/esperienza">
                   Esperienza
-                </Link>
+                </NavLink>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/weddingstories">
+                <NavLink className="nav-link" to="/weddingstories">
                   Wedding Stories
-                </Link>
+                </NavLink>
               </li>
 
               <li>
-                <Link className="nav-link" to="/video">
+                <NavLink className="nav-link" to="/video">
                   Video
-                </Link>
+                </NavLink>
               </li>
               <li>
-                <Link className="nav-link" to="/album       ">
+                <NavLink className="nav-link" to="/album       ">
                   Album
-                </Link>
+                </NavLink>
               </li>
               <li>
-                <Link className="nav-link" to="/about">
+                <NavLink className="nav-link" to="/about">
                   About
-                </Link>
+                </NavLink>
               </li>
 
               <li>
-                <Link className="nav-link" to="/contatti">
+                <NavLink className="nav-link" to="/contatti">
                   Contatti
-                </Link>
+                </NavLink>
               </li>
             </ul>
           </div>

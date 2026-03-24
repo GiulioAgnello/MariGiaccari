@@ -66,3 +66,37 @@
   box-shadow: #000 0px 0px 10px;
   transition: box-shadow 0.3s ease;
 }
+
+.phi-intro-img img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 10px;
+}
+.phi-intro-img img:hover {
+  box-shadow: #000 0px 0px 10px;
+  transition: box-shadow 0.3s ease;
+}
+
+.philosophy-img img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 10px;
+}
+.philosophy-img img:hover {
+  box-shadow: #000 0px 0px 10px;
+  transition: box-shadow 0.3s ease;
+}
+/* about  */
+
+.about-img img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 10px;
+}
+.about-img img:hover {
+  box-shadow: #000 0px 0px 10px;
+  transition: box-shadow 0.3s ease;
+}

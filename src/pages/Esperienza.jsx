@@ -84,7 +84,7 @@ export default function Esperienza() {
             <div className="col-12 col-lg-6">
               <div class="experience-img d-flex align-items-center justify-content-center justify-content-lg-start">
                 <img
-                  src="public\fotoHero\WEDDING-Virgjnjia-e-Simone_MARI-GIACCARI-FOTOGRAFA_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-134-1133x17.jpg"
+                  src="public\fotoHero\Wedding-Alex-e-Irene_MARI-GIACCARI-FOTOGRAFA_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-113-1133.jpg"
                   alt=""
                 />
               </div>
@@ -108,7 +108,7 @@ export default function Esperienza() {
             <div className="col-12 col-lg-3">
               <div className="reportage-img d-flex align-items-center justify-content-center h-100">
                 <img
-                  src="public\fotoHero\Wedding-Alex-e-Irene_MARI-GIACCARI-FOTOGRAFA_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-113-1133.jpg"
+                  src="public\fotoHero\WEDDING-EILEEN-E-MICHAEL-_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-128-667x1000.jpg"
                   alt="Fotografo di matrimonio tradizionale"
                 />
               </div>
@@ -138,7 +138,7 @@ export default function Esperienza() {
             <div className="col-12 col-lg-3">
               <div className="reportage-img d-flex align-items-center justify-content-center h-100">
                 <img
-                  src="public\fotoHero\Wedding-Alex-e-Irene_MARI-GIACCARI-FOTOGRAFA_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-113-1133.jpg"
+                  src="public\fotoHero\Wedding-Alex-e-Irene_MARI-GIACCARI-FOTOGRAFA_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-163-1133.jpg"
                   alt="Fotografo di reportage di matrimonio"
                 />
               </div>
@@ -163,7 +163,7 @@ export default function Esperienza() {
             <div className="col-12 col-lg-6">
               <div className="phi-intro-img">
                 <img
-                  src=""
+                  src="public\fotoHero\WEDDING-ISABELLA-E-MARCO-_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-110-667x1000.jpg"
                   alt="Reportage di matrimonio - momenti spontanei"
                   className="img-fluid"
                 />
@@ -237,7 +237,7 @@ export default function Esperienza() {
             <div className="col-12 col-lg-6">
               <div className="philosophy-img">
                 <img
-                  src=""
+                  src="\public\fotoHero\WEDDING-LAURA-E-ALESSANDRO-_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-138-667x1000.jpg"
                   alt="Connessione emotiva nel reportage"
                   className="img-fluid"
                 />
@@ -274,7 +274,7 @@ export default function Esperienza() {
             <div className="col-12 col-lg-6 order-lg-1">
               <div className="philosophy-img">
                 <img
-                  src=""
+                  src="\public\fotoHero\WEDDING-LAURA-E-ALESSANDRO-_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-138-667x1000.jpg"
                   alt="Narrazione visiva nel reportage matrimoniale"
                   className="img-fluid"
                 />
@@ -309,7 +309,7 @@ export default function Esperienza() {
             <div className="col-12 col-lg-6">
               <div className="philosophy-img">
                 <img
-                  src=""
+                  src="\public\fotoHero\WEDDING-LAURA-E-ALESSANDRO-_-weddingplanner-weddingday-destinationwedding-weddingphotographer-unionecivile-destinationweddingphotographer-MARI-GIACCARI-FOTOGRAFA-138-667x1000.jpg"
                   alt="Post-produzione professionale fotografica"
                   className="img-fluid"
                 />
